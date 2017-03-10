@@ -1,6 +1,6 @@
 # go-simple-wiki
 
-> Hello world wiki in golang
+> A very simple wiki example in golang
 
 ## Usage
 
@@ -16,4 +16,6 @@ Go to [http://localhost:8080/view/hello](http://localhost:8080/view/hello)
 
 - [golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)
 
-## License MIT
+## License
+
+MIT
