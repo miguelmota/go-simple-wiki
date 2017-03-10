@@ -15,4 +15,4 @@
 .project
 .strong-pm
 coverage
-data/*
+data/*.txt
